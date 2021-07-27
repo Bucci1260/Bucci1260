@@ -1,5 +1,5 @@
 /***
-README FILES for Onyebuchi Deploy static website hosting using the porvided folder by UDACITY.
+README FILES for Buchi Deploy static website hosting using the porvided folder by UDACITY.
 
 Cloudfront distribution Domain name:
 https://dpnl3zpe7wm2s.cloudfront.net
